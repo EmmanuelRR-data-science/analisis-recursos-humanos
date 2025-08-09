@@ -28,5 +28,5 @@ Posteriormente, se generaron visualizaciones para ilustrar estos insights.
 
 ---
 
-- **Para reproducir el análisis solo ejecuta el notebook en Google Colab**
+- **Para reproducir el análisis solo ejecuta el notebook en Google Colab con el dataset cargado**
 - **El informe completo está en Análisis de Recursos Humanos.pdf**
